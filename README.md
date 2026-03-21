@@ -30,6 +30,9 @@ Target Market: Ages 10+, casual gamers <br />
 <br />
 </p>
 
+
+<h2>License Info</h2>
+This unity project and code is free for you to reference and learn from but is not avalible for resale. You are free to learn from the systems and adapt them and change them for use in your own projects.
 <!--
  ```diff
 - text in red
@@ -39,3 +42,4 @@ Target Market: Ages 10+, casual gamers <br />
 @@ text in purple (and bold)@@
 ```
 --!>
+
